@@ -2,7 +2,7 @@
 
 Speak Mind is a backend project inspired by social media platforms like Twitter, providing users with the ability to sign up, log in, and share their thoughts. Users can follow each other to receive posts in reverse chronological order on their personalized timelines. Built using Golang, MongoDB, and JWT for authentication, it features a range of functionalities including CRUD operations for thoughts, user following management, and secure user authentication.
 
-**Context**: Each thought, which is a max 250 char idea in the form of text, is a post on the platform.
+**Context**: Each thought, in the form of text (max 250 char string), is a post on the platform.
 
 ### Key Features:
 
